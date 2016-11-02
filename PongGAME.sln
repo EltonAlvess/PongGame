@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{9716F1CD-8167-532A-378E-5BB278B2D18E}") = "PongGAME", "Assembly-CSharp.csproj", "{24B4ED48-CE5F-C3EB-2109-F1972A5AB607}"
+Project("{87220D96-A4F0-BAE0-289F-4D40FAE8570B}") = "PongGame", "Assembly-CSharp.csproj", "{0554FD02-3DE4-85C1-72A2-F037F528D37C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{24B4ED48-CE5F-C3EB-2109-F1972A5AB607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{24B4ED48-CE5F-C3EB-2109-F1972A5AB607}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{24B4ED48-CE5F-C3EB-2109-F1972A5AB607}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{24B4ED48-CE5F-C3EB-2109-F1972A5AB607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0554FD02-3DE4-85C1-72A2-F037F528D37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0554FD02-3DE4-85C1-72A2-F037F528D37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0554FD02-3DE4-85C1-72A2-F037F528D37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0554FD02-3DE4-85C1-72A2-F037F528D37C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,5 +36,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
